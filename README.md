@@ -19,7 +19,7 @@ The **Personal Library Manager** is a command-line interface (CLI) application b
 ### Steps to Run the Application
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/yourusername/library-manager.git
+   git clone https://github.com/abdulrahman-58/personal_library_manager.git
    cd library-manager
    ```
 2. **Run the script**
